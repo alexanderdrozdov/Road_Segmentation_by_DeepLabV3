@@ -11,4 +11,5 @@ https://www.kaggle.com/datasets/balraj98/massachusetts-roads-dataset
 DeepLabV3+ mobilenet
 
 Функция потерь: Dice Loss + BCE
+
 Метрика качества: IoU
